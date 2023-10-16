@@ -1,0 +1,10 @@
+C:\Users\macbookair\source\repos\praktikum\praktikum\bin\Debug\praktikum.exe.config
+C:\Users\macbookair\source\repos\praktikum\praktikum\bin\Debug\praktikum.exe
+C:\Users\macbookair\source\repos\praktikum\praktikum\bin\Debug\praktikum.pdb
+C:\Users\macbookair\source\repos\praktikum\praktikum\obj\Debug\praktikum.csproj.AssemblyReference.cache
+C:\Users\macbookair\source\repos\praktikum\praktikum\obj\Debug\praktikum.Form1.resources
+C:\Users\macbookair\source\repos\praktikum\praktikum\obj\Debug\praktikum.Properties.Resources.resources
+C:\Users\macbookair\source\repos\praktikum\praktikum\obj\Debug\praktikum.csproj.GenerateResource.cache
+C:\Users\macbookair\source\repos\praktikum\praktikum\obj\Debug\praktikum.csproj.CoreCompileInputs.cache
+C:\Users\macbookair\source\repos\praktikum\praktikum\obj\Debug\praktikum.exe
+C:\Users\macbookair\source\repos\praktikum\praktikum\obj\Debug\praktikum.pdb
